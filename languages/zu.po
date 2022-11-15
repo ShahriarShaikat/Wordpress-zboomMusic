@@ -1,0 +1,2654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zBoomMusic\n"
+"POT-Creation-Date: 2021-01-10 18:10+0600\n"
+"PO-Revision-Date: 2021-01-10 18:19+0600\n"
+"Last-Translator: \n"
+"Language-Team: shaikat\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#: frontpage.php:67
+msgid "Latest Blog"
+msgstr "সর্বশেষ ব্লগ"
+
+#: functions.php:14
+msgid "Main Menu"
+msgstr "প্রধান সূচি"
+
+#: functions.php:26
+msgid "Sliders"
+msgstr ""
+
+#: functions.php:27
+msgid "Add New Slider"
+msgstr ""
+
+#: functions.php:37
+msgid "Blocks"
+msgstr "ব্লক"
+
+#: functions.php:38
+msgid "Add New Block"
+msgstr "নতুন ব্লক যুক্ত করুন"
+
+#: functions.php:49
+msgid "Portfollio"
+msgstr ""
+
+#: functions.php:50
+msgid "Add New Portfollio"
+msgstr ""
+
+#: functions.php:61
+msgid "Topic"
+msgstr ""
+
+#: functions.php:62
+msgid "Add New Topic"
+msgstr ""
+
+#: functions.php:71
+msgid "Keyword"
+msgstr ""
+
+#: functions.php:84
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:85
+msgid "Add Your Right Sidebar Here"
+msgstr ""
+
+#: functions.php:95
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:96
+msgid "Add Your Footer Widgets Here"
+msgstr ""
+
+#: functions.php:106
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Add Your Contact Sidebar Here"
+msgstr ""
+
+#: functions.php:116
+msgid "Block Sidebar"
+msgstr ""
+
+#: functions.php:117
+msgid "Add your list sidebar here"
+msgstr ""
+
+#: index.php:54 index.php:103 index.php:141
+msgid "Prev"
+msgstr ""
+
+#: index.php:55 index.php:104 index.php:142
+msgid "Next"
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:452
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:460
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:476
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:691
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:484
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:493
+msgid "Please Wait"
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:504
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: lib/ReduxCore/core/enqueue.php:505
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: lib/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: lib/ReduxCore/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:221
+msgid "Redux Framework"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:225 lib/ReduxCore/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1746
+msgid "Enable"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1751
+msgid "Disable"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1757
+msgid "moving the mouse over"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1759
+msgid "clicking"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1763
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1768
+msgid "Hints"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:1895
+msgid "Default"
+msgstr ""
+
+#: lib/ReduxCore/framework.php:2775
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: lib/ReduxCore/framework.php:2784
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: lib/ReduxCore/framework.php:2864
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: lib/ReduxCore/framework.php:3984
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: lib/ReduxCore/framework.php:4000
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:79
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:79
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:115
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_filesystem.php:50
+#: lib/ReduxCore/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_filesystem.php:50
+#: lib/ReduxCore/inc/class.redux_filesystem.php:289
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: lib/ReduxCore/inc/class.redux_helpers.php:658
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:726
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: lib/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+msgid "Options Object"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:124
+#: lib/ReduxCore/inc/fields/color/field_color.php:73
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:277
+#: lib/ReduxCore/inc/fields/media/field_media.php:153
+msgid "No media selected"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:314
+#: lib/ReduxCore/inc/fields/media/field_media.php:206
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:126
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:321
+#: lib/ReduxCore/inc/fields/media/field_media.php:213
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:89
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:133
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:125
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:138
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:145
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:152
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:159
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:156
+msgid "Width"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:172
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:183
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:184
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/gallery/field_gallery.php:73
+#: lib/sample/sample-config.php:915
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:102
+#: tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/password/field_password.php:62
+#: lib/sample/sample-config.php:467
+msgid "Password"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/select/field_select.php:83
+#: lib/ReduxCore/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/select/field_select.php:134
+#: lib/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:73
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:145
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:149
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:204
+#: lib/sample/sample-config.php:1862 lib/sample/sample-config.php:1871
+msgid "Description"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:153
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:167
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:258
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:273
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:342
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:343
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:365
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:366
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:388
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:389
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:408
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:409
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:432
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:441
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:450
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:459
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:913
+msgid "Standard Fonts"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:1014
+msgid "Google Webfonts"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography_json.min.js:1
+msgid "#"
+msgstr ""
+
+#: lib/ReduxCore/inc/fields/typography/field_typography_json.min.js:1
+msgid "."
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: lib/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: lib/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: lib/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: lib/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/color/validation_color.php:15
+#: lib/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: lib/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/email/validation_email.php:16
+#: lib/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: lib/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: lib/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:8
+#: lib/ReduxCore/inc/welcome/views/changelog.php:10
+#: lib/ReduxCore/inc/welcome/views/credits.php:10
+#: lib/ReduxCore/inc/welcome/views/extensions.php:81
+#: lib/ReduxCore/inc/welcome/views/status_report.php:34
+#: lib/ReduxCore/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:482
+#: lib/ReduxCore/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/welcome.php:104
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/welcome.php:353
+msgid "Credits"
+msgstr ""
+
+#: lib/ReduxCore/inc/welcome/welcome.php:519
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/footer.tpl.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/footer.tpl.php:62
+msgid "Reset Section"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/footer.tpl.php:64
+msgid "Reset All"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/footer.tpl.php:69
+msgid "Working..."
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:11
+#: lib/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: lib/class.redux-plugin.php:314
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: lib/class.redux-plugin.php:314
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: lib/class.redux-plugin.php:415
+msgid "Docs"
+msgstr ""
+
+#: lib/class.redux-plugin.php:416
+msgid "Repo"
+msgstr ""
+
+#: lib/class.redux-plugin.php:417
+msgid "Builder"
+msgstr ""
+
+#: lib/class.redux-plugin.php:418
+msgid "Get Support"
+msgstr ""
+
+#: lib/class.redux-plugin.php:423
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: lib/class.redux-plugin.php:425
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: lib/sample/barebones-config.php:35 lib/sample/barebones-config.php:36
+#: lib/sample/sample-config.php:77 lib/sample/sample-config.php:78
+msgid "Sample Options"
+msgstr ""
+
+#: lib/sample/barebones-config.php:139 lib/sample/config.php:178
+#: lib/sample/sample-config.php:178 lib/sample/sample-config.php:2227
+msgid "Documentation"
+msgstr ""
+
+#: lib/sample/barebones-config.php:145 lib/sample/config.php:184
+#: lib/sample/sample-config.php:184
+msgid "Support"
+msgstr ""
+
+#: lib/sample/barebones-config.php:151 lib/sample/config.php:190
+#: lib/sample/sample-config.php:190
+msgid "Extensions"
+msgstr ""
+
+#: lib/sample/barebones-config.php:184 lib/sample/sample-config.php:223
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: lib/sample/barebones-config.php:186 lib/sample/sample-config.php:225
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: lib/sample/barebones-config.php:190 lib/sample/sample-config.php:229
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: lib/sample/barebones-config.php:205 lib/sample/config.php:245
+#: lib/sample/sample-config.php:245
+msgid "Theme Information 1"
+msgstr ""
+
+#: lib/sample/barebones-config.php:206 lib/sample/barebones-config.php:211
+#: lib/sample/config.php:246 lib/sample/config.php:251
+#: lib/sample/sample-config.php:246 lib/sample/sample-config.php:251
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: lib/sample/barebones-config.php:210 lib/sample/config.php:250
+#: lib/sample/sample-config.php:250
+msgid "Theme Information 2"
+msgstr ""
+
+#: lib/sample/barebones-config.php:217 lib/sample/config.php:257
+#: lib/sample/sample-config.php:257
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: lib/sample/barebones-config.php:241
+msgid "Basic Field"
+msgstr ""
+
+#: lib/sample/barebones-config.php:243
+msgid "Basic field with no subsections."
+msgstr ""
+
+#: lib/sample/barebones-config.php:249
+msgid "Example Text"
+msgstr ""
+
+#: lib/sample/barebones-config.php:250
+msgid "Example description."
+msgstr ""
+
+#: lib/sample/barebones-config.php:251
+msgid "Example subtitle."
+msgstr ""
+
+#: lib/sample/barebones-config.php:260 lib/sample/sample-config.php:281
+msgid "Basic Fields"
+msgstr ""
+
+#: lib/sample/barebones-config.php:262
+msgid "Basic fields as subsections."
+msgstr ""
+
+#: lib/sample/barebones-config.php:267 lib/sample/sample-config.php:413
+msgid "Text"
+msgstr ""
+
+#: lib/sample/barebones-config.php:268 lib/sample/barebones-config.php:285
+#: lib/sample/sample-config.php:293 lib/sample/sample-config.php:345
+#: lib/sample/sample-config.php:375 lib/sample/sample-config.php:414
+#: lib/sample/sample-config.php:454 lib/sample/sample-config.php:469
+#: lib/sample/sample-config.php:488 lib/sample/sample-config.php:514
+#: lib/sample/sample-config.php:547 lib/sample/sample-config.php:605
+#: lib/sample/sample-config.php:628 lib/sample/sample-config.php:647
+#: lib/sample/sample-config.php:668 lib/sample/sample-config.php:693
+#: lib/sample/sample-config.php:753 lib/sample/sample-config.php:759
+#: lib/sample/sample-config.php:803 lib/sample/sample-config.php:839
+#: lib/sample/sample-config.php:909 lib/sample/sample-config.php:925
+#: lib/sample/sample-config.php:978 lib/sample/sample-config.php:1007
+#: lib/sample/sample-config.php:1020 lib/sample/sample-config.php:1115
+#: lib/sample/sample-config.php:1165 lib/sample/sample-config.php:1204
+#: lib/sample/sample-config.php:1263 lib/sample/sample-config.php:1484
+#: lib/sample/sample-config.php:1580 lib/sample/sample-config.php:1623
+#: lib/sample/sample-config.php:1687 lib/sample/sample-config.php:1707
+#: lib/sample/sample-config.php:1790 lib/sample/sample-config.php:1806
+#: lib/sample/sample-config.php:1854 lib/sample/sample-config.php:1886
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: lib/sample/barebones-config.php:275 lib/sample/sample-config.php:422
+#: lib/sample/sample-config.php:442
+msgid "Text Field"
+msgstr ""
+
+#: lib/sample/barebones-config.php:276 lib/sample/barebones-config.php:293
+#: lib/sample/sample-config.php:423 lib/sample/sample-config.php:431
+#: lib/sample/sample-config.php:443 lib/sample/sample-config.php:495
+#: lib/sample/sample-config.php:1861 lib/sample/sample-config.php:1870
+msgid "Subtitle"
+msgstr ""
+
+#: lib/sample/barebones-config.php:277 lib/sample/barebones-config.php:294
+#: lib/sample/sample-config.php:424 lib/sample/sample-config.php:432
+#: lib/sample/sample-config.php:444
+msgid "Field Description"
+msgstr ""
+
+#: lib/sample/barebones-config.php:284
+msgid "Text Area"
+msgstr ""
+
+#: lib/sample/barebones-config.php:292
+msgid "Text Area Field"
+msgstr ""
+
+#: lib/sample/config.php:77
+msgid "zBoom Options"
+msgstr ""
+
+#: lib/sample/config.php:78
+msgid "Theme Options"
+msgstr ""
+
+#: lib/sample/config.php:338
+msgid "Logo Visibility"
+msgstr ""
+
+#: lib/sample/config.php:339
+msgid "Look, it's on or off!"
+msgstr ""
+
+#: lib/sample/config.php:711 lib/sample/sample-config.php:2342
+msgid "Section via hook"
+msgstr ""
+
+#: lib/sample/config.php:712 lib/sample/sample-config.php:2343
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: lib/sample/sample-config.php:283
+msgid "These are really basic fields!"
+msgstr ""
+
+#: lib/sample/sample-config.php:289
+msgid "Checkbox"
+msgstr ""
+
+#: lib/sample/sample-config.php:298
+msgid "Checkbox Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:299 lib/sample/sample-config.php:307
+#: lib/sample/sample-config.php:326 lib/sample/sample-config.php:334
+#: lib/sample/sample-config.php:351 lib/sample/sample-config.php:365
+#: lib/sample/sample-config.php:1172 lib/sample/sample-config.php:1186
+#: lib/sample/sample-config.php:1271 lib/sample/sample-config.php:1293
+#: lib/sample/sample-config.php:1318 lib/sample/sample-config.php:1339
+#: lib/sample/sample-config.php:1348 lib/sample/sample-config.php:1356
+#: lib/sample/sample-config.php:1365 lib/sample/sample-config.php:1373
+#: lib/sample/sample-config.php:1382 lib/sample/sample-config.php:1390
+#: lib/sample/sample-config.php:1399 lib/sample/sample-config.php:1407
+#: lib/sample/sample-config.php:1416 lib/sample/sample-config.php:1434
+#: lib/sample/sample-config.php:1443 lib/sample/sample-config.php:1451
+#: lib/sample/sample-config.php:1460 lib/sample/sample-config.php:1468
+#: lib/sample/sample-config.php:1476 lib/sample/sample-config.php:1492
+#: lib/sample/sample-config.php:1537 lib/sample/sample-config.php:1797
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: lib/sample/sample-config.php:300 lib/sample/sample-config.php:308
+#: lib/sample/sample-config.php:327 lib/sample/sample-config.php:335
+#: lib/sample/sample-config.php:352 lib/sample/sample-config.php:366
+#: lib/sample/sample-config.php:382 lib/sample/sample-config.php:396
+#: lib/sample/sample-config.php:496 lib/sample/sample-config.php:637
+#: lib/sample/sample-config.php:677 lib/sample/sample-config.php:702
+#: lib/sample/sample-config.php:769 lib/sample/sample-config.php:787
+#: lib/sample/sample-config.php:917 lib/sample/sample-config.php:1173
+#: lib/sample/sample-config.php:1187 lib/sample/sample-config.php:1272
+#: lib/sample/sample-config.php:1294 lib/sample/sample-config.php:1319
+#: lib/sample/sample-config.php:1340 lib/sample/sample-config.php:1349
+#: lib/sample/sample-config.php:1357 lib/sample/sample-config.php:1366
+#: lib/sample/sample-config.php:1374 lib/sample/sample-config.php:1383
+#: lib/sample/sample-config.php:1391 lib/sample/sample-config.php:1400
+#: lib/sample/sample-config.php:1408 lib/sample/sample-config.php:1417
+#: lib/sample/sample-config.php:1427 lib/sample/sample-config.php:1435
+#: lib/sample/sample-config.php:1444 lib/sample/sample-config.php:1452
+#: lib/sample/sample-config.php:1461 lib/sample/sample-config.php:1477
+#: lib/sample/sample-config.php:1538 lib/sample/sample-config.php:1798
+#: lib/sample/sample-config.php:1912 lib/sample/sample-config.php:1922
+#: lib/sample/sample-config.php:1931 lib/sample/sample-config.php:1938
+#: lib/sample/sample-config.php:1947 lib/sample/sample-config.php:1956
+#: lib/sample/sample-config.php:1965 lib/sample/sample-config.php:1987
+#: lib/sample/sample-config.php:2024 lib/sample/sample-config.php:2033
+#: lib/sample/sample-config.php:2042 lib/sample/sample-config.php:2060
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: lib/sample/sample-config.php:306
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:325
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: lib/sample/sample-config.php:333
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: lib/sample/sample-config.php:341
+msgid "Radio"
+msgstr ""
+
+#: lib/sample/sample-config.php:350
+msgid "Radio Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:364
+msgid "Radio Option w/ Menu Data"
+msgstr ""
+
+#: lib/sample/sample-config.php:372
+msgid "Sortable"
+msgstr ""
+
+#: lib/sample/sample-config.php:380 lib/sample/sample-config.php:394
+msgid "Sortable Text Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:381 lib/sample/sample-config.php:395
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: lib/sample/sample-config.php:430
+msgid "Text Field w/ Hint"
+msgstr ""
+
+#: lib/sample/sample-config.php:452
+msgid "Multi Text"
+msgstr ""
+
+#: lib/sample/sample-config.php:460
+msgid "Multi Text Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:461
+msgid "Field subtitle"
+msgstr ""
+
+#: lib/sample/sample-config.php:462
+msgid "Field Decription"
+msgstr ""
+
+#: lib/sample/sample-config.php:486
+msgid "Textarea"
+msgstr ""
+
+#: lib/sample/sample-config.php:494 lib/sample/sample-config.php:2040
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: lib/sample/sample-config.php:504
+msgid "Editors"
+msgstr ""
+
+#: lib/sample/sample-config.php:511
+msgid "WordPress Editor"
+msgstr ""
+
+#: lib/sample/sample-config.php:520
+msgid "Editor"
+msgstr ""
+
+#: lib/sample/sample-config.php:521
+msgid "Use any of the features of WordPress editor inside your panel!"
+msgstr ""
+
+#: lib/sample/sample-config.php:527
+msgid "Editor w/o Media Button"
+msgstr ""
+
+#: lib/sample/sample-config.php:543
+msgid "Editor - Full Width"
+msgstr ""
+
+#: lib/sample/sample-config.php:551
+msgid "ACE Editor"
+msgstr ""
+
+#: lib/sample/sample-config.php:555
+msgid "For full documentation on the this field, visit: "
+msgstr ""
+
+#: lib/sample/sample-config.php:560
+msgid "CSS Code"
+msgstr ""
+
+#: lib/sample/sample-config.php:561
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: lib/sample/sample-config.php:570
+msgid "JS Code"
+msgstr ""
+
+#: lib/sample/sample-config.php:571
+msgid "Paste your JS code here."
+msgstr ""
+
+#: lib/sample/sample-config.php:581
+msgid "PHP Code"
+msgstr ""
+
+#: lib/sample/sample-config.php:582
+msgid "Paste your PHP code here."
+msgstr ""
+
+#: lib/sample/sample-config.php:596
+msgid "Color Selection"
+msgstr ""
+
+#: lib/sample/sample-config.php:603
+msgid "Color"
+msgstr ""
+
+#: lib/sample/sample-config.php:612
+msgid "Site Title Color"
+msgstr ""
+
+#: lib/sample/sample-config.php:613
+msgid "Pick a title color for the theme (default: #000)."
+msgstr ""
+
+#: lib/sample/sample-config.php:619
+msgid "Footer Background Color"
+msgstr ""
+
+#: lib/sample/sample-config.php:620
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: lib/sample/sample-config.php:627
+msgid "Color Gradient"
+msgstr ""
+
+#: lib/sample/sample-config.php:635
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:636 lib/sample/sample-config.php:676
+#: lib/sample/sample-config.php:701 lib/sample/sample-config.php:766
+#: lib/sample/sample-config.php:783
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: lib/sample/sample-config.php:646 lib/sample/sample-config.php:654
+msgid "Color RGBA"
+msgstr ""
+
+#: lib/sample/sample-config.php:655
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: lib/sample/sample-config.php:667
+msgid "Link Color"
+msgstr ""
+
+#: lib/sample/sample-config.php:675
+msgid "Links Color Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:692
+msgid "Palette Colors"
+msgstr ""
+
+#: lib/sample/sample-config.php:700
+msgid "Palette Color Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:732
+msgid "Design Fields"
+msgstr ""
+
+#: lib/sample/sample-config.php:739
+msgid "Background"
+msgstr ""
+
+#: lib/sample/sample-config.php:747
+msgid "Body Background"
+msgstr ""
+
+#: lib/sample/sample-config.php:748
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: lib/sample/sample-config.php:757
+msgid "Border"
+msgstr ""
+
+#: lib/sample/sample-config.php:765 lib/sample/sample-config.php:782
+msgid "Header Border Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:801
+msgid "Dimensions"
+msgstr ""
+
+#: lib/sample/sample-config.php:811
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:812 lib/sample/sample-config.php:825
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: lib/sample/sample-config.php:813 lib/sample/sample-config.php:826
+msgid ""
+"You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: lib/sample/sample-config.php:824
+msgid "Dimensions (Width) Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:837
+msgid "Spacing"
+msgstr ""
+
+#: lib/sample/sample-config.php:859 lib/sample/sample-config.php:884
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:860 lib/sample/sample-config.php:885
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: lib/sample/sample-config.php:861 lib/sample/sample-config.php:886
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: lib/sample/sample-config.php:899
+msgid "Media Uploads"
+msgstr ""
+
+#: lib/sample/sample-config.php:907
+msgid "Gallery"
+msgstr ""
+
+#: lib/sample/sample-config.php:916
+msgid ""
+"Create a new Gallery by selecting existing or uploading new images using the "
+"WordPress native uploader"
+msgstr ""
+
+#: lib/sample/sample-config.php:923
+msgid "Media"
+msgstr ""
+
+#: lib/sample/sample-config.php:932
+msgid "Media w/ URL"
+msgstr ""
+
+#: lib/sample/sample-config.php:935 lib/sample/sample-config.php:969
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: lib/sample/sample-config.php:936 lib/sample/sample-config.php:948
+#: lib/sample/sample-config.php:956 lib/sample/sample-config.php:970
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: lib/sample/sample-config.php:946
+msgid "Media w/o URL"
+msgstr ""
+
+#: lib/sample/sample-config.php:947 lib/sample/sample-config.php:955
+msgid ""
+"This represents the minimalistic view. It does not have the preview box or "
+"the display URL in an input box. "
+msgstr ""
+
+#: lib/sample/sample-config.php:954
+msgid "Media No Preview"
+msgstr ""
+
+#: lib/sample/sample-config.php:965
+msgid "Upload Anything - Disabled Mode"
+msgstr ""
+
+#: lib/sample/sample-config.php:976
+msgid "Slides"
+msgstr ""
+
+#: lib/sample/sample-config.php:984
+msgid "Slides Options"
+msgstr ""
+
+#: lib/sample/sample-config.php:985
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: lib/sample/sample-config.php:986
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: lib/sample/sample-config.php:988
+msgid "This is a title"
+msgstr ""
+
+#: lib/sample/sample-config.php:989
+msgid "Description Here"
+msgstr ""
+
+#: lib/sample/sample-config.php:990
+msgid "Give us a link!"
+msgstr ""
+
+#: lib/sample/sample-config.php:998
+msgid "Presentation Fields"
+msgstr ""
+
+#: lib/sample/sample-config.php:1005
+msgid "Divide"
+msgstr ""
+
+#: lib/sample/sample-config.php:1007
+msgid ""
+"The spacer to the section menu as seen to the left (after this section "
+"block) is the divide \"section\". Also the divider below is the divide "
+"\"field\"."
+msgstr ""
+
+#: lib/sample/sample-config.php:1018
+msgid "Info"
+msgstr ""
+
+#: lib/sample/sample-config.php:1026
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: lib/sample/sample-config.php:1032 lib/sample/sample-config.php:1039
+#: lib/sample/sample-config.php:1047 lib/sample/sample-config.php:1055
+#: lib/sample/sample-config.php:1064 lib/sample/sample-config.php:1071
+#: lib/sample/sample-config.php:1079 lib/sample/sample-config.php:1088
+#: lib/sample/sample-config.php:1097 lib/sample/sample-config.php:1106
+msgid "This is a title."
+msgstr ""
+
+#: lib/sample/sample-config.php:1033
+msgid ""
+"This is an info field with the <strong>info</strong> style applied. By "
+"default the <strong>normal</strong> style is applied."
+msgstr ""
+
+#: lib/sample/sample-config.php:1040
+msgid "This is an info field with the <strong>warning</strong> style applied."
+msgstr ""
+
+#: lib/sample/sample-config.php:1048
+msgid ""
+"This is an info field with the <strong>success</strong> style applied and an "
+"icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1056
+msgid ""
+"This is an info field with the <strong>critical</strong> style applied and "
+"an icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1065
+msgid ""
+"This is an info field with the <strong>custom</strong> style applied, color "
+"arg passed, and an icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1072
+msgid ""
+"This is an info non-notice field with the <strong>normal</strong> style "
+"applied."
+msgstr ""
+
+#: lib/sample/sample-config.php:1080
+msgid ""
+"This is an info non-notice field with the <strong>info</strong> style "
+"applied."
+msgstr ""
+
+#: lib/sample/sample-config.php:1089
+msgid ""
+"This is an info non-notice field with the <strong>warning</strong> style "
+"applied and an icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1098
+msgid ""
+"This is an info non-notice field with the <strong>success</strong> style "
+"applied and an icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1107
+msgid ""
+"This is an non-notice field with the <strong>critical</strong> style applied "
+"and an icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1113
+msgid "Section"
+msgstr ""
+
+#: lib/sample/sample-config.php:1121
+msgid "Section Example"
+msgstr ""
+
+#: lib/sample/sample-config.php:1122
+msgid "With the \"section\" field you can create indented option sections."
+msgstr ""
+
+#: lib/sample/sample-config.php:1128 lib/sample/sample-config.php:1134
+msgid "Field Title"
+msgstr ""
+
+#: lib/sample/sample-config.php:1129 lib/sample/sample-config.php:1135
+msgid "Field Subtitle"
+msgstr ""
+
+#: lib/sample/sample-config.php:1145
+msgid "And now you can add more fields below and outside of the indent."
+msgstr ""
+
+#: lib/sample/sample-config.php:1156
+msgid "Switch & Button Set"
+msgstr ""
+
+#: lib/sample/sample-config.php:1163
+msgid "Button Set"
+msgstr ""
+
+#: lib/sample/sample-config.php:1171
+msgid "Button Set Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1185
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: lib/sample/sample-config.php:1202
+msgid "Switch"
+msgstr ""
+
+#: lib/sample/sample-config.php:1211
+msgid "Switch On"
+msgstr ""
+
+#: lib/sample/sample-config.php:1212 lib/sample/sample-config.php:1219
+msgid "Look, it's on!"
+msgstr ""
+
+#: lib/sample/sample-config.php:1218
+msgid "Switch Off"
+msgstr ""
+
+#: lib/sample/sample-config.php:1226
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: lib/sample/sample-config.php:1227
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: lib/sample/sample-config.php:1236
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: lib/sample/sample-config.php:1237 lib/sample/sample-config.php:1246
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: lib/sample/sample-config.php:1238 lib/sample/sample-config.php:1247
+msgid ""
+"Items set with a fold to this ID will hide unless this is set to the "
+"appropriate value."
+msgstr ""
+
+#: lib/sample/sample-config.php:1245
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: lib/sample/sample-config.php:1255
+msgid "Select Fields"
+msgstr ""
+
+#: lib/sample/sample-config.php:1261
+msgid "Select"
+msgstr ""
+
+#: lib/sample/sample-config.php:1270
+msgid "Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1284
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: lib/sample/sample-config.php:1285
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: lib/sample/sample-config.php:1292
+msgid "Select Option with optgroup"
+msgstr ""
+
+#: lib/sample/sample-config.php:1317
+msgid "Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1332
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: lib/sample/sample-config.php:1338
+msgid "Categories Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1347
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1355
+msgid "Pages Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1364
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1372
+msgid "Tags Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1381
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1389
+msgid "Menus Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1398
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1406
+msgid "Post Type Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1415
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1425
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: lib/sample/sample-config.php:1426
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: lib/sample/sample-config.php:1433
+msgid "Posts Select Option2"
+msgstr ""
+
+#: lib/sample/sample-config.php:1442
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1450
+msgid "User Role Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1459
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1467
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1469
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: lib/sample/sample-config.php:1475
+msgid "Users Select Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1482
+msgid "Image Select"
+msgstr ""
+
+#: lib/sample/sample-config.php:1491
+msgid "Images Option for Layout"
+msgstr ""
+
+#: lib/sample/sample-config.php:1493
+msgid ""
+"This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: lib/sample/sample-config.php:1527
+msgid "Images Option (with tiles => true)"
+msgstr ""
+
+#: lib/sample/sample-config.php:1528
+msgid "Select a background pattern."
+msgstr ""
+
+#: lib/sample/sample-config.php:1536
+msgid "Images Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1553
+msgid "Preset"
+msgstr ""
+
+#: lib/sample/sample-config.php:1554 lib/sample/sample-config.php:1556
+msgid ""
+"This allows you to set a json string or array to override multiple "
+"preferences in your theme."
+msgstr ""
+
+#: lib/sample/sample-config.php:1578 lib/sample/sample-config.php:1586
+#: lib/sample/sample-config.php:1604
+msgid "Select Image"
+msgstr ""
+
+#: lib/sample/sample-config.php:1587 lib/sample/sample-config.php:1605
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: lib/sample/sample-config.php:1614
+msgid "Slider / Spinner"
+msgstr ""
+
+#: lib/sample/sample-config.php:1621
+msgid "Slider"
+msgstr ""
+
+#: lib/sample/sample-config.php:1629
+msgid "Slider Example 1"
+msgstr ""
+
+#: lib/sample/sample-config.php:1630
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: lib/sample/sample-config.php:1631
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: lib/sample/sample-config.php:1641
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: lib/sample/sample-config.php:1642
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: lib/sample/sample-config.php:1643
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: lib/sample/sample-config.php:1653
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: lib/sample/sample-config.php:1654
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: lib/sample/sample-config.php:1655
+msgid ""
+"Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, "
+"slider 2 default value: 300"
+msgstr ""
+
+#: lib/sample/sample-config.php:1669
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: lib/sample/sample-config.php:1670
+msgid "This example displays float values"
+msgstr ""
+
+#: lib/sample/sample-config.php:1671
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: lib/sample/sample-config.php:1685
+msgid "Spinner"
+msgstr ""
+
+#: lib/sample/sample-config.php:1693
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: lib/sample/sample-config.php:1694
+msgid ""
+"JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: lib/sample/sample-config.php:1705
+msgid "Typography"
+msgstr ""
+
+#: lib/sample/sample-config.php:1713
+msgid "Body Font"
+msgstr ""
+
+#: lib/sample/sample-config.php:1714
+msgid "Specify the body font properties."
+msgstr ""
+
+#: lib/sample/sample-config.php:1727
+msgid "Typography h2.site-description"
+msgstr ""
+
+#: lib/sample/sample-config.php:1749
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: lib/sample/sample-config.php:1764
+msgid "Additional Types"
+msgstr ""
+
+#: lib/sample/sample-config.php:1788
+msgid "Date"
+msgstr ""
+
+#: lib/sample/sample-config.php:1796
+msgid "Date Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:1804
+msgid "Sorter"
+msgstr ""
+
+#: lib/sample/sample-config.php:1852
+msgid "Raw"
+msgstr ""
+
+#: lib/sample/sample-config.php:1860
+msgid "Standard Raw Field"
+msgstr ""
+
+#: lib/sample/sample-config.php:1869
+msgid "Raw Field <code>full_width</code> False"
+msgstr ""
+
+#: lib/sample/sample-config.php:1878
+msgid "Advanced Features"
+msgstr ""
+
+#: lib/sample/sample-config.php:1884
+msgid "Callback"
+msgstr ""
+
+#: lib/sample/sample-config.php:1892
+msgid "Custom Field Callback"
+msgstr ""
+
+#: lib/sample/sample-config.php:1893
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: lib/sample/sample-config.php:1894
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: lib/sample/sample-config.php:1902
+msgid "Field Validation"
+msgstr ""
+
+#: lib/sample/sample-config.php:1904 lib/sample/sample-config.php:2070
+msgid "For full documentation on validation, visit: "
+msgstr ""
+
+#: lib/sample/sample-config.php:1910
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1911
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: lib/sample/sample-config.php:1920
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: lib/sample/sample-config.php:1921
+msgid ""
+"You can also pass an options array if you want. Set the default to whatever "
+"you like."
+msgstr ""
+
+#: lib/sample/sample-config.php:1928
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1930
+msgid ""
+"If you enter an invalid color it will be removed. Try using the text \"blue"
+"\" as a color.  ;)"
+msgstr ""
+
+#: lib/sample/sample-config.php:1936
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1937
+msgid "This must be a URL."
+msgstr ""
+
+#: lib/sample/sample-config.php:1945
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1946
+msgid "This must be numeric."
+msgstr ""
+
+#: lib/sample/sample-config.php:1954
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1955
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: lib/sample/sample-config.php:1963
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1964
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: lib/sample/sample-config.php:1972
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1973 lib/sample/sample-config.php:1986
+#: lib/sample/sample-config.php:1999
+msgid "You decide."
+msgstr ""
+
+#: lib/sample/sample-config.php:1974
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: lib/sample/sample-config.php:1985
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:1998
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:2000
+msgid ""
+"Enter <code>1</code> and click <strong>Save Changes</strong> for an error "
+"message, or enter <code>2</code> and click <strong>Save Changes</strong> for "
+"a warning message."
+msgstr ""
+
+#: lib/sample/sample-config.php:2022
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:2023
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: lib/sample/sample-config.php:2031
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:2032
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: lib/sample/sample-config.php:2041
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: lib/sample/sample-config.php:2058
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: lib/sample/sample-config.php:2059
+msgid "JS will be escaped"
+msgstr ""
+
+#: lib/sample/sample-config.php:2068
+msgid "Field Required / Linking"
+msgstr ""
+
+#: lib/sample/sample-config.php:2174
+msgid "WPML Integration"
+msgstr ""
+
+#: lib/sample/sample-config.php:2175
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement. For extra details look at "
+"our <a href=\"//docs.reduxframework.com/core/advanced/wpml-integration/\" "
+"target=\"_blank\">WPML Implementation</a> documentation."
+msgstr ""
+
+#: lib/sample/sample-config.php:2182
+msgid "WPML Text"
+msgstr ""
+
+#: lib/sample/sample-config.php:2183
+msgid "This string can be translated via WPML."
+msgstr ""
+
+#: lib/sample/sample-config.php:2188
+msgid "WPML Multi Checkbox"
+msgstr ""
+
+#: lib/sample/sample-config.php:2189
+msgid "You can literally translate the values via key."
+msgstr ""
+
+#: lib/sample/sample-config.php:2202
+msgid "Customizer Only"
+msgstr ""
+
+#: lib/sample/sample-config.php:2203
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: lib/sample/sample-config.php:2209
+msgid "Customizer Only Option"
+msgstr ""
+
+#: lib/sample/sample-config.php:2210
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: lib/sample/sample-config.php:2211
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: metabox/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: metabox/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: metabox/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: metabox/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: metabox/includes/CMB2_Field_Display.php:453
+msgid "File:"
+msgstr ""
+
+#: metabox/includes/CMB2_Hookup.php:550
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: metabox/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: metabox/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: metabox/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: metabox/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: metabox/includes/shim/WP_REST_Controller.php:35
+#: metabox/includes/shim/WP_REST_Controller.php:47
+#: metabox/includes/shim/WP_REST_Controller.php:59
+#: metabox/includes/shim/WP_REST_Controller.php:71
+#: metabox/includes/shim/WP_REST_Controller.php:83
+#: metabox/includes/shim/WP_REST_Controller.php:95
+#: metabox/includes/shim/WP_REST_Controller.php:107
+#: metabox/includes/shim/WP_REST_Controller.php:119
+#: metabox/includes/shim/WP_REST_Controller.php:131
+#: metabox/includes/shim/WP_REST_Controller.php:143
+#: metabox/includes/shim/WP_REST_Controller.php:155
+#: metabox/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: metabox/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: metabox/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: metabox/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: metabox/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:394
+#: tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

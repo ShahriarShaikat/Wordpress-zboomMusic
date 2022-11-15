@@ -1,0 +1,113 @@
+/*
+
+Theme Name: zBoomMusic
+Theme URI: https://www.html5webtemplates.co.uk/templates/black_and_white/index.html
+Author: Shaikat
+Author URI: http://facebook.com
+Version: 1.13.4
+Description: ZBoomMusic Template
+Tags: Business Website
+
+*/
+#rowblock .col-2-3 .wrap-col img{
+	height: 130px;
+}
+.col-2-3 .wrap-col article img{
+	height: 385px;
+}
+.comment-body .comment-author img{
+	height: 30px !important;
+	width: 30px;
+}
+.comment-form-author{
+	margin-top: 15px;
+}
+.comment-form-email{
+	margin-top: 15px;
+}
+.comment-form-url{
+	margin-top: 15px;
+}
+.comment-form-cookies-consent{
+	margin-top: 10px;
+}
+.comment-form-author input, .comment-form-email input{
+	margin-left: 13px;
+}
+.comment-form-url input{
+	margin-left: 6px;
+}
+.rslides_container li img{
+
+	height: 640px;
+
+}
+#acol:hover{
+	color: white;
+}
+.textwidget img{
+	width: 100%;
+	height: 265px;
+}
+.right_sidebar ul{
+	background-color: #1E1E1E;
+	padding: 10px 0px 10px 10px;
+	margin : 0px !important;
+}
+.right_sidebar ul li{
+	margin-left: 23px;
+}
+#contact_sidebar iframe{
+	height: 193px;
+	width: 264px;
+}
+#hhhhhhh{
+	position: relative;
+}
+#searchform {
+	width: 30px !important;
+	height: 34px !important;
+	background-color: #FFF !important;
+	position: absolute;
+	margin: 0px;
+	padding: 0px !important;
+	top: 1px !important;
+	right: -3px !important;
+	border-color: transparent !important;
+	
+	cursor: pointer !important;
+
+}
+#galleryitems img{
+	width: 175px;
+	height: 106px;
+}
+.ccccccc{
+	width: 100%;
+    height: 200px;
+}
+.listclass_content{
+	margin: 10px;
+	background: black;
+    padding: 10px;
+	
+}
+.listclass_onlycontent{
+	margin-top: 10px;
+	background: #515151;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.listclass_onlycontent p{
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.listclass_content li{
+    list-style: none;
+    margin-left: 7px;
+    padding: 5px;
+    color: #FFFFFF;
+}
+
+
+    
